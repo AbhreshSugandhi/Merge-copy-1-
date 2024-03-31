@@ -1,1 +1,1 @@
-Info about the project
+Lets learn the merging concept with conflict
