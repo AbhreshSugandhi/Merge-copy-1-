@@ -1,2 +1,3 @@
-Lets learn the merging concept with conflict
+Lets learn the merging concept with conflict!!
+With Simplilearn!!
 Training by Abhresh Sugandhi!
