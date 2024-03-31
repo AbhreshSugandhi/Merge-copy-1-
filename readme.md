@@ -1,2 +1,2 @@
-Learning git merging with conflict situation
-training by Abhresh Sugandhi!
+Lets learn the merging concept with conflict
+Training by Abhresh Sugandhi!
